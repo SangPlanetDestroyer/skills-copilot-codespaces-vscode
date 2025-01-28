@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "Tes1": "Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
